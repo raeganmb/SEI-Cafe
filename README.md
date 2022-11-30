@@ -1,5 +1,3 @@
-# MERN-Stack Infrastructure
+# MERN-Stack Application Code-Along
 
-Clone this repo to provide the starter code for a comprehensive MERN-Stack project including token-based authentication.
-
-# SEI-Cafe
+Software Engineering Immersive - Online Cafe
